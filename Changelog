@@ -41,3 +41,6 @@
 	Code cleanup, optimizations and bugfixing (thx to P. Biondi)
 	Added source MAC address setting support
 	Added a sample ARP answering machine (wifiarp.py)
+
+0.4.1 - Updated to use modern scapy and work with Linux radiotap headers
+	Oliver Lavery, Gotham Digital Science (olavery@gdssecurity.com)
